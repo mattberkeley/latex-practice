@@ -1,4 +1,4 @@
-latex-practice
+Latex-Practice
 ==============
 
 Latex Practice Files
